@@ -12,8 +12,14 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
-Add Code Here
+Reg no: 212222210020
+Name: Prithisha S
+
+c = complex(3, 4)
+print("Complex Number:", c)
 
 ## Output
+Complex Number: (3+4j)
 
 ## Result
+The programs were executed successfully and the expected outputs were obtained.
